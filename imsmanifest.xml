@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6g93obYAHY5_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">חדר בריחה</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="חדר_בריחה_ORG">
+    <organization identifier="חדר_בריחה_ORG">
+      <title>חדר בריחה</title>
+      <item identifier="חדר_בריחה_SCO" isvisible="true" identifierref="__6g93obYAHY5_course_id_RES">
+        <title>חדר בריחה</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6g93obYAHY5_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5ZPCC22u2hW_M_1088_1088_P_53_53_3541_2951.png" />
+      <file href="story_content/5dyHAHVSq21_44100_48_0.mp3" />
+      <file href="story_content/6KQ5DdO0i15_44100_48_0.mp3" />
+      <file href="story_content/5xuLciLWFjh_44100_48_0.mp3" />
+      <file href="mobile/5ZPCC22u2hW_M_1090_1090.png" />
+      <file href="mobile/66QAoo5rtRR_P_10_0_389_433.png" />
+      <file href="mobile/6hm4FFVTUKL.png" />
+      <file href="mobile/5XHD8sOLXZK.png" />
+      <file href="mobile/5k5xg4ShGZK.png" />
+      <file href="mobile/5Vi2lN31mXu.png" />
+      <file href="mobile/6MYFOQowTrk.png" />
+      <file href="mobile/6RKxS9T0415.png" />
+      <file href="mobile/6eePzJPMlZ5.png" />
+      <file href="story_content/6Xg6eUYNBqm_44100_48_0.mp3" />
+      <file href="story_content/6JTMm6xbhhN_44100_48_0.mp3" />
+      <file href="mobile/5tetfG4tXxq.png" />
+      <file href="mobile/6ecOFci5MS9.png" />
+      <file href="mobile/5arCJ7DDSpH.png" />
+      <file href="mobile/5h4V3SvbhEO.png" />
+      <file href="mobile/60ZCoNM7oGB.png" />
+      <file href="mobile/66QAoo5rtRR.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6SUylXltZ6m.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bDZeq94YcG.js" />
+      <file href="html5/data/js/6KpqCyTrrou.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
